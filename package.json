@@ -1,13 +1,18 @@
 {
   "name": "@meltstudio/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Melt Studio's prettier configuration",
   "main": "index.json",
   "repository": "https://github.com/MeltStudio/melt-prettier-config",
   "author": "Melt Studio <dev@meltstudio.co>",
   "license": "MIT",
-  "keywords": ["prettier", "prettierconfig"],
-  "files": ["index.json"],
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "files": [
+    "index.json"
+  ],
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",

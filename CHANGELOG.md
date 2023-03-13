@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/MeltStudio/melt-prettier-config/compare/v1.0.0...v1.0.1) (2023-03-13)
+
+
+### Bug Fixes
+
+* add files key in package.json ([a2ea4c2](https://github.com/MeltStudio/melt-prettier-config/commit/a2ea4c251b4e43604dd5463c28e676b50b5fc432))
+
 # 1.0.0 (2023-03-13)
 
 
