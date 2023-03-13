@@ -6,9 +6,9 @@ Melt Studio's [Prettier](https://prettier.io/) config.
 
 1. Install:
 
-```bash
-yarn add --dev @meltstudio/prettier-config
-```
+   ```bash
+   yarn add --dev @meltstudio/prettier-config
+   ```
 
 1. Use the configuration
 
