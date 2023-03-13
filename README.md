@@ -10,22 +10,20 @@ Melt Studio's [Prettier](https://prettier.io/) config.
 yarn add --dev @meltstudio/prettier-config
 ```
 
-1. Use the configuration:
+1. Use the configuration
 
-In your `.prettierrc`:
+   In your `.prettierrc`:
 
-```json
-"@meltstudio/prettier-config"
-```
+   ```json
+   "@meltstudio/prettier-config"
+   ```
 
-Or in the `package.json`:
+   Or in the `package.json`:
 
-```json
-{
-  ...
-  "prettier": "@meltstudio/prettier-config",
-  ...
-}
-```
-
-
+   ```json
+   {
+     ...
+     "prettier": "@meltstudio/prettier-config",
+     ...
+   }
+   ```

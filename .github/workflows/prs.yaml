@@ -16,3 +16,8 @@ jobs:
     name: Lint commits
     needs: [prepare]
     uses: ./.github/workflows/_lint_commits.yaml
+
+  code-checks:
+    name: Run code checks and quality tools
+    needs: [prepare]
+    uses: ./.github/workflows/_code_checks.yaml
