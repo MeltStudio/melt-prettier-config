@@ -1,6 +1,6 @@
 {
   "name": "@meltstudio/prettier-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Melt Studio's prettier configuration",
   "main": "index.json",
   "repository": "https://github.com/MeltStudio/melt-prettier-config",
