@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/MeltStudio/melt-prettier-config/compare/v1.0.1...v1.1.0) (2023-03-16)
+
+
+### Features
+
+* use the json parser for config files ([3c9e933](https://github.com/MeltStudio/melt-prettier-config/commit/3c9e933f13bbaeb9b06f9d10a6686113dbc3daab))
+
 ## [1.0.1](https://github.com/MeltStudio/melt-prettier-config/compare/v1.0.0...v1.0.1) (2023-03-13)
 
 
