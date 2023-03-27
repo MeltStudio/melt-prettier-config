@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/MeltStudio/melt-prettier-config/compare/v1.1.1...v1.1.2) (2023-03-27)
+
+
+### Bug Fixes
+
+* use json parser for commitlintrc ([f9a750f](https://github.com/MeltStudio/melt-prettier-config/commit/f9a750f8a710b18f3dab0eab29d3a47b3e90a1c4))
+
 ## [1.1.1](https://github.com/MeltStudio/melt-prettier-config/compare/v1.1.0...v1.1.1) (2023-03-16)
 
 
