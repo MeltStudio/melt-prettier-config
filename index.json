@@ -15,7 +15,7 @@
       }
     },
     {
-      "files": [".prettierrc", ".releaserc", ".eslintrc"],
+      "files": [".prettierrc", ".releaserc", ".eslintrc", ".commitlintrc"],
       "options": { "parser": "json" }
     }
   ]
