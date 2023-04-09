@@ -27,3 +27,13 @@ Melt Studio's [Prettier](https://prettier.io/) config.
      ...
    }
    ```
+
+   Or if you want to override the default configuration:
+
+   ```javascript
+   // .prettierrc.js
+   module.exports = {
+     ...require('@meltstudio/prettier-config'),
+     semi: false,
+   };
+   ```
